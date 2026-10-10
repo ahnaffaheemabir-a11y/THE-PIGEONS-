@@ -1,0 +1,8 @@
+{
+  "name": "AstroSphere 3D: Solar System & Global City Explorer",
+  "description": "Interactive, scientifically calibrated 3D solar system simulation and planetary explorer with realistic global 3D cities, orbital mechanics, and space telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
